@@ -41,7 +41,7 @@ function App() {
             <div className="sm:w-40 font-semibold text-gray-600 w-full text-center">Rutas creadas</div>
             <hr className="w-80 border border-gray-400" />
           </div>
-          <div className='mt-10'>
+          <div className='mt-10 h-[675px] overflow-y-auto'>
             <Listar/>
           </div>
         </div>
